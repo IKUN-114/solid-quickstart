@@ -1,47 +1,30 @@
-// @refresh reload
-import { Suspense } from "solid-js";
-import {
-  A,
-  Body,
-  ErrorBoundary,
-  FileRoutes,
-  Head,
-  Html,
-  Meta,
-  Routes,
-  Scripts,
-  Title,
-} from "solid-start";
-import "./root.css";
+<!DOCTYPE html>
+<Html lang="en">
+  <Head>
+     <Title>这里是 chei 豆二连</Title>
+     <Meta charset="utf-8" />
+     <Meta name="viewport" content="width=device-width, initial-scale=1" />
+     <style>
+       body {
+            background-image: url(images/clouds-sky.bmp);;
+            font-size: 0.8em;
+            margin: 0px;
+        }
 
-export default function Root() {
-  return (
-    <Html lang="en">
-      <Head>
-        <Title>这里是 chei 豆二连</Title>
-        <Meta charset="utf-8" />
-        <Meta name="viewport" content="width=device-width, initial-scale=1" />
-        <style>
-           body {
-              background-image: url(images/clouds-sky.bmp);;
-              font-size: 0.8em;
-              margin: 0px;
-          }
+        nav, section, article {
+            margin: 0px;
+            padding: 8px;
+        }
 
-          nav, section, article {
-              margin: 0px;
-              padding: 8px;
-          }
-
-          header, footer {
-              background-color: #328db5;
-              color: white;
-              margin: 0px;
-              padding: 5px;
-              padding-left:16px;
+        header, footer {
+            background-color: #328db5;
+            color: white;
+            margin: 0px;
+            padding: 5px;
+            padding-left:16px;
            
 
-          }
+        }
 
 
           nav ul {
