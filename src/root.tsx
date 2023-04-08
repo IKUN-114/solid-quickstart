@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<Html lang="en">
+<html>
   <Head>
      <Title>这里是 chei 豆二连</Title>
      <Meta charset="utf-8" />
@@ -67,30 +67,28 @@
 
         <section>
 
-           <h1 style="color: steelblue">chei豆二连</h1>
+          <h1 style="color: steelblue">chei豆二连</h1>
+  
+          <article>
+            <h2 style="color: lightblue">公告栏</h2>
+            <p style="color: grey">
+              ·建立时间：公元 2022 年 9 月 1 日（永生不灭）
+              <br/>
+              <br/>
+              ·建立者：shie
+              <br/>
+              <br/>
+              ·国号：chei
+              <br/>
+              <br/>
+              ·帝都：生京
+            </p>
+         </article>
 
-           <article>
-              <h2 style="color: lightblue">公告栏</h2>
-              <p style="color: grey">
-                ·建立时间：公元 2022 年 9 月 1 日（永生不灭）
-                <br/>
-                <br/>
-                ·建立者：shie
-                <br/>
-                <br/>
-                ·国号：chei
-                <br/>
-                <br/>
-                ·帝都：生京
-              </p>
-           </article>
+         </section>
 
-           </section>
-
-           <!-- <footer>
-           <p>&copy; 2023 chei豆二连 . All rights reserved.</p> 
-        </footer> -->
-      </Body>
-    </Html>
-  );
-}
+         <!-- <footer>
+         <p>&copy; 2023 chei豆二连 . All rights reserved.</p> 
+      </footer> -->
+    </Body>
+</html>
