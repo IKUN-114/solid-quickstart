@@ -71,7 +71,7 @@
         <article>
           <h2 style="color: lightblue">公告栏</h2>
           <p style="color: grey">
-            ·建立时间：公元 2022 年 9 月 1 日（永生不灭）
+            ·建立时间：公元 2022 年 9 月 1 日（永生不灭）ssss
             <br/>
             <br/>
             ·建立者：shie
