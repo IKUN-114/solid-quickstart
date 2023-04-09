@@ -1,3 +1,5 @@
+export default function NotFound() {
+  return (
 <!DOCTYPE html>
 <html>
   <Head>
@@ -91,3 +93,5 @@
     </footer> -->
 </Body>
 </html>
+);
+}
