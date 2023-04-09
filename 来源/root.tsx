@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-  <html>
-     <Head>
-       <Title>这里是 chei 豆二连</Title>
+<html>
+   <head>
+       <title>这里是 chei 豆二连</title>
        <Meta charset="utf-8" />
        <Meta name="viewport" content="width=device-width, initial-scale=1" />
        <style>
@@ -26,7 +26,7 @@
 
           }
 
-        nav ul {
+          nav ul {
               margin: 0;
               padding: 0;
           }
@@ -37,7 +37,7 @@
         }
             
         p {
-          color: grey;
+        color: grey;
         }
 
         .bar{
@@ -49,8 +49,8 @@
             border-radius: 20px;
         }
       </style>
-    </Head>
-    <Body>
+    </head>
+    <body>
         
       <header>
         <h1>欢迎访问chei豆二连</h1>
@@ -89,5 +89,5 @@
         <!-- <footer>
         <p>&copy; 2023 chei豆二连 . All rights reserved.</p> 
       </footer> -->
-  </Body>
+  </body>
 </html>
