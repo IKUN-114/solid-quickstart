@@ -24,7 +24,7 @@ export default function Home() {
                 ·国号：chei
                 <br/>
                 <br/>
-                ·帝都：生京
+                ·帝都：生京 
         <br/>
         <a href="http://www.python.org" style="float: right">了解更多 &raquo;</a>    
        </p>
