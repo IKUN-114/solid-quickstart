@@ -6,7 +6,7 @@ export default function NotFound() {
     <main>
       <Title>未找到该页面</Title>
       <HttpStatusCode code={404} />
-      <h1>404 <small>页面不存在<small></h1>
+      <h1>404 <small>页面不存在</small></h1>
       <p>
         Visit{" "}
         <a href="https://start.solidjs.com" target="_blank">
